@@ -1,5 +1,14 @@
 # Amazon Bestseller PC Gaming Mice Analysis
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Repository Structure](#repository-structure)
+- [Disclaimer](#disclaimer)
+- [Data Analysis](analysis/analysis.ipynb)
+
 ## Project Overview
 
 This project focuses on scraping Amazon's Bestseller list for PC gaming mice and conducting a thorough analysis of the collected data. The primary goal is to understand the market trends, pricing patterns, and features of the top-rated gaming mice. This analysis could serve businesses and individuals who are looking to understand the market and make informed decisions about their purchases.
