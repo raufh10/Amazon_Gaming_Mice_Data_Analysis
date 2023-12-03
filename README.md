@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Repository Structure](#repository-structure)
