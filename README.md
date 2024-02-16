@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Data Analysis (Jupyter Notebook)](#data-analysis)
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Repository Structure](#repository-structure)
@@ -9,7 +10,9 @@
 - [Actionable Insights](#actionable-insights)
 - [Questions for Further Research](#questions-for-further-research)
 - [Disclaimer](#disclaimer)
-- [Data Analysis](analysis/analysis.ipynb)
+
+## Data Analysis
+To access the analysis in the Jupyter Notebook, [click here](analysis/analysis.ipynb).
 
 ## Project Overview
 
