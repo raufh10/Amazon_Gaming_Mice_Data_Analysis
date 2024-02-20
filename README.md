@@ -20,7 +20,7 @@ To access the analysis in the Jupyter Notebook, [click here](analysis/analysis.i
 
 ### Methodology
 
-- **Web Scraping Techniques**: Implement sophisticated methods to extract data from Amazon's Bestseller list, specifically focusing on PC gaming mice.
+- **Web Scraping Techniques**: Utilize BeautifulSoup4 and Playwright to extract data from Amazon's Bestseller list, specifically focusing on PC gaming mice.
 - **Data Analysis in Jupyter Notebook**: Perform detailed analysis on the gathered data.
 
 ### Goals
